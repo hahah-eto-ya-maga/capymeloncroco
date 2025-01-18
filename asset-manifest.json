@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/capymeloncroco/static/css/main.293e737f.css",
-    "main.js": "/capymeloncroco/static/js/main.25af7f61.js",
+    "main.js": "/capymeloncroco/static/js/main.3b56cb65.js",
     "static/media/game_background.png": "/capymeloncroco/static/media/game_background.709f4000678b0d54a72d.png",
     "static/media/background.png": "/capymeloncroco/static/media/background.20dabd5f1b75a70b00b0.png",
     "static/media/lose_background.png": "/capymeloncroco/static/media/lose_background.60da0614f988f6a0fdaa.png",
@@ -16,10 +16,10 @@
     "static/media/game_croco.png": "/capymeloncroco/static/media/game_croco.89f7c3c1d238dbf7216f.png",
     "index.html": "/capymeloncroco/index.html",
     "main.293e737f.css.map": "/capymeloncroco/static/css/main.293e737f.css.map",
-    "main.25af7f61.js.map": "/capymeloncroco/static/js/main.25af7f61.js.map"
+    "main.3b56cb65.js.map": "/capymeloncroco/static/js/main.3b56cb65.js.map"
   },
   "entrypoints": [
     "static/css/main.293e737f.css",
-    "static/js/main.25af7f61.js"
+    "static/js/main.3b56cb65.js"
   ]
 }

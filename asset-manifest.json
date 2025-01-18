@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/capymeloncroco/static/css/main.293e737f.css",
+    "main.js": "/capymeloncroco/static/js/main.25af7f61.js",
+    "static/media/game_background.png": "/capymeloncroco/static/media/game_background.709f4000678b0d54a72d.png",
+    "static/media/background.png": "/capymeloncroco/static/media/background.20dabd5f1b75a70b00b0.png",
+    "static/media/lose_background.png": "/capymeloncroco/static/media/lose_background.60da0614f988f6a0fdaa.png",
+    "static/media/logo.png": "/capymeloncroco/static/media/logo.c98248a6d06908b491a4.png",
+    "static/media/win_background.png": "/capymeloncroco/static/media/win_background.ca0906c40e15d82763d0.png",
+    "static/media/lose_title.png": "/capymeloncroco/static/media/lose_title.b9a286a0c63584782948.png",
+    "static/media/croco.png": "/capymeloncroco/static/media/croco.13da45bdec27db061568.png",
+    "static/media/capy.png": "/capymeloncroco/static/media/capy.e8b4dee4847c08473886.png",
+    "static/media/gochi-hand-cyrillic.otf": "/capymeloncroco/static/media/gochi-hand-cyrillic.3cd8f231a7955d7d2f9f.otf",
+    "static/media/reset.png": "/capymeloncroco/static/media/reset.75b27764005187c94ed2.png",
+    "static/media/game_boat.png": "/capymeloncroco/static/media/game_boat.3746aec321749f4c12c5.png",
+    "static/media/game_croco.png": "/capymeloncroco/static/media/game_croco.89f7c3c1d238dbf7216f.png",
+    "index.html": "/capymeloncroco/index.html",
+    "main.293e737f.css.map": "/capymeloncroco/static/css/main.293e737f.css.map",
+    "main.25af7f61.js.map": "/capymeloncroco/static/js/main.25af7f61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.293e737f.css",
+    "static/js/main.25af7f61.js"
+  ]
+}
